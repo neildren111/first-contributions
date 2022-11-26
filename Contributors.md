@@ -26,6 +26,7 @@
 - [Bogdan Otava](https://github.com/BogdanOtava)
 - [John Harold Sipat]
 - [Nathan FAbio](https://github.com/nathanfabio)
+- [Neil Agapay](https://github.com/neildren111)
 - [Vanshagra Rai](https://github.com/VanshagraRai)
 - [Ausawin Saehaan](https://github.com/saehaana)
 - [Fvoice](https://github.com/facelessvoice)
